@@ -409,3 +409,7 @@ artifacts/2/models/m-e50150d400df464ab9c109b0723a0683/artifacts/MLmodel
 artifacts/2/models/m-e50150d400df464ab9c109b0723a0683/artifacts/model.pkl
 artifacts/2/models/m-e50150d400df464ab9c109b0723a0683/artifacts/python_env.yaml
 artifacts/2/models/m-e50150d400df464ab9c109b0723a0683/artifacts/requirements.txt
+
+*/mlruns/
+*/mlartifacts/
+*/models/
